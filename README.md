@@ -1,24 +1,18 @@
 ### Hello World 👋
-
-
-
-
  <img align="right" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/code.gif?raw=true" width="500" height="320" />
 
+## Here's a breif introduction about me:
 
-## I'm a developer and a mentor.
-- 
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+ 👨‍💻 I'm a Developer Intern [FrontEnd] at 12consultants, Pakistan.
+ 👨‍🏫 I worked as an IT Analyst intern [VA team] at Citibank, Hungary.
+ 🎓 I'm an upcoming Computer Science Engineer graduate in July 2023 at BME, Budapest
+ 🎯 I'm actively exploring and practicing how domain specific lanuguages can solve real-life problems. 
+ 🌱 I'm currently learning and experimenting on MERN-stack.
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+### Don't be hesitant to reach me, I am kinda awesome:
+[<img align="left" alt=" Facebook " width="22px" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/4102579_applications_instagram_media_social_icon.png"/>]
 <br />
 
 ### Languages and Tools:
