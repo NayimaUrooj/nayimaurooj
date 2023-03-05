@@ -1,13 +1,13 @@
 ### Hello World 👋
 
-<img align="center" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/Nayima.gif?raw=true" width="700" height="320" />
+
 
 
  <img align="right" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
+## I'm a developer and a mentor.
+- 
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
