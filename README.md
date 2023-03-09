@@ -1,5 +1,7 @@
-<img align="center" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/Name.gif?raw=true " width="1000" height="400" />
- 
+
+<div align="center">
+<img align="center" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/Name.gif?raw=true " width="900" height="300" />
+ </div>
 ## Here's a breif introduction about me:
  <img align="right" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/code.gif?raw=true " width="380" height="280" />
   
@@ -16,12 +18,12 @@
 ### Don't be hesitant to reach me, I am kinda awesome:
 
 <div align="center">
- 
-[<img alt="gmail" width="50px" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/email.jpg" />](Gmail)
-[<img alt="git" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/git.png "/>](Github)
-[<img alt="linkedIn" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/linkedin.png"/>](LinkedIn)
-[<img alt="facebook" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/facebook.png"/>](Facebook)
-[<img alt="instagram" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/instagram.png "/>](Instagram)
+
+[![<img alt="gmail" width="50px" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/email.jpg" />]](Gmail)
+[![<img alt="git" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/git.png "/>]](Github)
+[![<img alt="linkedIn" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/linkedin.png"/>]](LinkedIn)
+[![<img alt="facebook" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/facebook.png"/>]](Facebook)
+[![<img alt="instagram" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/instagram.png "/>]](Instagram)
  
 </div>
 
@@ -66,9 +68,11 @@
 
 </details>
 
-[Facebook]: https://www.facebook.com/nayim.xD/
+[![Facebook]]: https://www.facebook.com/nayim.xD/
 [Instagram]: https://www.instagram.com/nayimirza/
 [Github]: https://github.com/NayimaUrooj
 [Gmail]: nayimaurooj@gmail.com
 [Linkedin]: nayimaurooj@gmail.com
+
+
 
