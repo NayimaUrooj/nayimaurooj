@@ -48,8 +48,8 @@
 
 ## My Projects
 - [Asteroid-Mining](https://github.com/nayimaurooj/Asteroid-mining): Multiplayer game in Java using JMonkey game engine using an agile approach.
-- [Project 2](https://github.com/username/repo2): Brief description of the project.
-- [Project 3](https://github.com/username/repo3): Brief description of the project.
+- [FlappyBird Game](https://github.com/nayimaurooj/Asteroid-mining): Flappy bird game in Java using LWJGL3 for Windows, Linux, and Mac.
+- [Facify](https://github.com/nayimaurooj/facify): Facial recognition application in Angular integrating API from Microsoft.
 
 
 
