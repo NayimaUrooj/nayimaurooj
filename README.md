@@ -1,7 +1,8 @@
 
 <div align="center">
-<img align="center" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/Name.gif?raw=true " width="900" height="300" />
+<img align="center" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/Name.gif?raw=true " width="800" height="330" />
  </div>
+ 
 ## Here's a breif introduction about me:
  <img align="right" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/code.gif?raw=true " width="380" height="280" />
   
@@ -24,54 +25,32 @@
 [<img src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/linkedin.png" alt="linked" width="50px" style="float:left; margin-right:10px;">](https://github.com/NayimaUrooj/)
 [<img src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/facebook.png" alt="Facebook" width="50px" style="float:left; margin-right:10px;">](https://www.facebook.com/nayim.xD/)
  [<img src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/instagram.png" alt="Instagram" width="50px" style="float:left; margin-right:10px;">](https://instagram.com/nayimirza/)
+ 
 </div>
 
 <br> 
 
+### My practiced languages/tools are:
 
+<p align="center">
+  <img src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/TechStack.png" alt="techstack" width="100%" height="auto"/>
+</p>
 
-
-### Languages and Tools:
-
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][youtube]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
-[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-<br />
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="...s" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="...s" src="https://github-readme-stats.vercel.app/api?username=nayimaurooj&show_icons=true&hide_border=true" />
 
 </details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
-
-[![Facebook]]: https://www.facebook.com/nayim.xD/
-[Instagram]: 
-[Github]: 
-[Gmail]: 
-[Linkedin]: nayimaurooj@gmail.com
+## My Projects
+- [Asteroid-Mining](https://github.com/nayimaurooj/Asteroid-mining): Multiplayer game in Java using JMonkey game engine using an agile approach.
+- [Project 2](https://github.com/username/repo2): Brief description of the project.
+- [Project 3](https://github.com/username/repo3): Brief description of the project.
 
 
 
