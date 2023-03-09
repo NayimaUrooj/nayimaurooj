@@ -1,6 +1,6 @@
 ### Hello World 👋
 
- <img align="right" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/code.gif?raw=true" width="400" height="320" />
 
 ## Here's a breif introduction about me:
 
