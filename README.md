@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="center" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/Name.gif?raw=true " width="800" height="330" />
+<img align="center" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/Name.gif?raw=true " width="800" height="300" />
  </div>
  
 ## Here's a breif introduction about me:
@@ -28,8 +28,6 @@
  
 </div>
 
-<br> 
-
 ### My practiced languages/tools are:
 
 <p align="center">
@@ -45,6 +43,7 @@
   <img align="left" alt="...s" src="https://github-readme-stats.vercel.app/api?username=nayimaurooj&show_icons=true&hide_border=true" />
 
 </details>
+
 
 
 ## My Projects
