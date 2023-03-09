@@ -13,7 +13,7 @@
  - 🎓 I'm an upcoming Computer Science Engineer graduate in July 2023 at BME, Budapest
  - 🎯 I'm actively exploring and practicing how domain specific lanuguages can solve real-life problems. 
  - 🌱 I'm currently learning and experimenting on MERN-stack.
- - 👨‍ I'm open to collab in any of the above mentioned practices: nayimaurooj@gmail.com
+ - 👨‍ I'm open to collab in any of the above mentioned practices:nayimaurooj@gmail.com
  <br>
 
 ### Don't be hesitant to reach me, I am kinda awesome:
@@ -50,6 +50,7 @@
 - [Asteroid-Mining](https://github.com/nayimaurooj/Asteroid-mining): Multiplayer game in Java using JMonkey game engine using an agile approach.
 - [FlappyBird Game](https://github.com/nayimaurooj/Asteroid-mining): Flappy bird game in Java using LWJGL3 for Windows, Linux, and Mac.
 - [Facify](https://github.com/nayimaurooj/facify): Facial recognition application in Angular integrating API from Microsoft.
+- [Facify](https://github.com/NayimaUrooj/Blockly-Game): visual domain-specific language (DSL) in JavaScript, integrating Blockly - a game for aspiring future programmers
 
 
 
