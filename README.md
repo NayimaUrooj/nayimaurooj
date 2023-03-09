@@ -18,13 +18,12 @@
 ### Don't be hesitant to reach me, I am kinda awesome:
 
 <div align="center">
-
-[![<img alt="gmail" width="50px" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/email.jpg" />]](Gmail)
-[![<img alt="git" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/git.png "/>]](Github)
-[![<img alt="linkedIn" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/linkedin.png"/>]](LinkedIn)
-[![<img alt="facebook" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/facebook.png"/>]](Facebook)
-[![<img alt="instagram" width="50px" style="float:left" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/instagram.png "/>]](Instagram)
  
+[<img src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/email.jpg" alt="Gmail" width="50px" style="float:left; margin-right:10px;">](nayimaurooj12@gmail.com/)
+[<img src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/git.png" alt="github" width="50px" style="float:left; margin-right:10px;">](https://github.com/NayimaUrooj/)
+[<img src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/linkedin.png" alt="linked" width="50px" style="float:left; margin-right:10px;">](https://github.com/NayimaUrooj/)
+[<img src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/facebook.png" alt="Facebook" width="50px" style="float:left; margin-right:10px;">](https://www.facebook.com/nayim.xD/)
+ [<img src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/instagram.png" alt="Instagram" width="50px" style="float:left; margin-right:10px;">](https://instagram.com/nayimirza/)
 </div>
 
 <br> 
@@ -69,9 +68,9 @@
 </details>
 
 [![Facebook]]: https://www.facebook.com/nayim.xD/
-[Instagram]: https://www.instagram.com/nayimirza/
-[Github]: https://github.com/NayimaUrooj
-[Gmail]: nayimaurooj@gmail.com
+[Instagram]: 
+[Github]: 
+[Gmail]: 
 [Linkedin]: nayimaurooj@gmail.com
 
 
