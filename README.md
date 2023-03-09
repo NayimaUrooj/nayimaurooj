@@ -10,18 +10,20 @@
  - 🎓 I'm an upcoming Computer Science Engineer graduate in July 2023 at BME, Budapest
  - 🎯 I'm actively exploring and practicing how domain specific lanuguages can solve real-life problems. 
  - 🌱 I'm currently learning and experimenting on MERN-stack.
- - 👨‍ I'm open to collab in any of the above mentioned practices.
+ - 👨‍ I'm open to collab in any of the above mentioned practices: nayimaurooj@gmail.com
  <br>
- <br>
- 
+
 ### Don't be hesitant to reach me, I am kinda awesome:
 
-<img align="left" alt=" Facebook " width="30px" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/Gmail-logo.png"/> nayimauroo@gmail.com
-<br /> 
+[<img align="center" alt="gmail" width="50px" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/icons/email.jpg" />](Gmail)
+<br> 
+
+
+
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
