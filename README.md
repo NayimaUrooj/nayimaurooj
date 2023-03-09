@@ -11,12 +11,12 @@
  - 🎯 I'm actively exploring and practicing how domain specific lanuguages can solve real-life problems. 
  - 🌱 I'm currently learning and experimenting on MERN-stack.
  - 👨‍ I'm open to collab in any of the above mentioned practices.
- - 
  <br>
  <br>
-
+ 
 ### Don't be hesitant to reach me, I am kinda awesome:
-[<img align="left" alt=" Facebook " width="22px" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/4102579_applications_instagram_media_social_icon.png"/>][Facebook]
+
+<img align="left" alt=" Facebook " width="30px" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/Gmail-logo.png"/> nayimauroo@gmail.com
 <br /> 
 
 ### Languages and Tools:
