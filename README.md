@@ -9,7 +9,6 @@
    <br>
    
  - 👨‍💻 I'm a Developer Intern [FrontEnd] at 12consultants, Pakistan.
- - 👨‍🏫 I work as an IT Analyst intern [VA team] at Citibank, Hungary.
  - 🎓 I'm an upcoming Computer Science Engineer graduate in July 2023 at BME, Budapest
  - 🎯 I'm actively exploring and practicing how domain specific lanuguages can solve real-life problems. 
  - 🌱 I'm currently learning and experimenting on MERN-stack.
