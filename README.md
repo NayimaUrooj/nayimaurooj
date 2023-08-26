@@ -9,7 +9,7 @@
    <br>
    
  - 👨‍💻 I'm a Developer Intern [FrontEnd] at 12consultants, Pakistan.
- - 🎓 I'm an upcoming Computer Science Engineer graduate in July 2023 at BME, Budapest
+ - 🎓 I'm a Computer Science Engineer graduate from BME, Budapest
  - 🎯 I'm actively exploring and practicing how domain specific lanuguages can solve real-life problems. 
  - 🌱 I'm currently learning and experimenting on MERN-stack.
  - 👨‍ I'm open to collab in any of the above mentioned practices:nayimaurooj@gmail.com
