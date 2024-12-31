@@ -7,11 +7,10 @@
  <img align="right" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/code.gif?raw=true " width="380" height="280" />
   
   <br><br>
- - 👨‍💻 I work as a Network Security Engineer and Developer in Citibank, Hungary.  
+ - 🌱 I work as a Network Security Engineer and Developer in Citibank, Hungary.  
  - 👨‍💻 I'm a Developer [FrontEnd] at 12consultants, Pakistan.  
- - 🎓 I'm a Computer Science Engineer graduate from BME, Budapest.  
+ - 🎓 I'm a Computer Science Engineer graduate from Budapest University of Technology and Economics, Hungary.  
  - 🎯 I'm actively exploring and practicing how domain specific lanuguages can solve real-life problems.   
- - 🌱 I'm currently learning and experimenting on MERN-stack.  
  - 👨‍ I'm open to collab in any of the above mentioned practices:nayimaurooj@gmail.com  
  <br><br>
 
