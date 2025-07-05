@@ -7,8 +7,8 @@
  <img align="right" alt="GIF" src="https://github.com/NayimaUrooj/nayimaurooj/blob/main/code.gif?raw=true " width="380" height="280" />
   
   <br><br>
- - 🌱 I work as a Network Security Engineer and Developer in Citibank, Hungary.  
- - 👨‍💻 I also handle a team of developers at 12consultants, Pakistan.  
+ - 🌱 I work as a Network Security Engineer and Software Developer at Citibank, Hungary.  
+ - 👨‍💻 I also handle a team of full stack developers at 12consultants, Pakistan.  
  - 🎓 I'm a Computer Science Engineer graduate from Budapest University of Technology and Economics, Hungary.  
  - 👨‍ I'm open to collab in any of the above mentioned practices:nayimaurooj@gmail.com  
  <br><br>
