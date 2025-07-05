@@ -8,9 +8,8 @@
   
   <br><br>
  - 🌱 I work as a Network Security Engineer and Developer in Citibank, Hungary.  
- - 👨‍💻 I'm a Developer [FrontEnd] at 12consultants, Pakistan.  
+ - 👨‍💻 I also handle a team of developers at 12consultants, Pakistan.  
  - 🎓 I'm a Computer Science Engineer graduate from Budapest University of Technology and Economics, Hungary.  
- - 🎯 I'm actively exploring and practicing how domain specific lanuguages can solve real-life problems.   
  - 👨‍ I'm open to collab in any of the above mentioned practices:nayimaurooj@gmail.com  
  <br><br>
 
